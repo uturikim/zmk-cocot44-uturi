@@ -1,0 +1,6 @@
+if SHIELD_MY_COCOT44
+
+config ZMK_KEYBOARD_NAME
+    default "Cocot44"
+
+endif
